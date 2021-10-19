@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="error_try_again">Error, Try again!</string>
+    <string name="city_name">City Name</string>
+    <string name="country_code">Country Code</string>
+    <string name="city_name">City Name</string>
+</resources>
