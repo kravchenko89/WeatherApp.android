@@ -11,4 +11,3 @@ class MainActivity : AppCompatActivity() {
     }
 }
 
-//https://api.openweathermap.org/data/2.5/weather?q=London&units=metric&appid=6a2c78e775ad28e76cd3ca2d9cc8643d
